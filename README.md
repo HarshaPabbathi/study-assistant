@@ -221,15 +221,3 @@ Approximately **8 hours**
 - AI follow-up editing instead of full regeneration
 
 ---
-
-# Screenshots
-
-(Add screenshots of your application here.)
-
----
-
-# Demo Video
-
-(Add the link to your screen recording here.)
-
----
